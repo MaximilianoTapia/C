@@ -1,4 +1,4 @@
-#include <stdio.h>
+//#include <stdio.h>
 
 //int sumaArreglo(int arr[], int size) {
     //int suma = 0;
